@@ -7,7 +7,7 @@
 MiniFix je jednoduchý bash skript určený pro spuštění na Linux Live USB nebo jiné Linuxové distribuci,
 který ti pomůže opravit základní problémy s Windows systémem, když Windows vůbec nenaběhne.
 
-Umí:
+Um:
 
 * Automaticky najít a připojit Windows oddíly (NTFS)
 * Provede základní opravy boot sektoru pomocí ntfsfix
