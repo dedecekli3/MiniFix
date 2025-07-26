@@ -1,6 +1,4 @@
----
-
-# MiniFix.sh
+# MiniFix
 
 ## Co je MiniFix?
 
